@@ -97,6 +97,9 @@ div div {background: #A4CA39; position: relative;}
 }
 
 body{ 
-  background-image:url("../css/space3.jpg"); 
-  background-size:cover no repeat;
+  background-image:url("../css/space4.jpg"); 
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
