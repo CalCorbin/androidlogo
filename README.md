@@ -1,8 +1,8 @@
-* Android Logo CSS Exercise
+# Android Logo CSS Exercise
 
-This was an exercise is creating elements with CSS. In this case the android logo was built through CSS.
+This was an exercise in creating elements with CSS. In this case the Android logo was built through CSS.
 
-** Instructions
+## Instructions
 
 Not much to it, hover your mouse over the android for super cool effects.
 
